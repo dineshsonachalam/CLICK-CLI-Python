@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        click_example_2=example_2:cli
+    
